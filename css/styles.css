@@ -112,6 +112,10 @@ font-weight: 700;
     background-color:var(--accent-color);
 }
 
+.pointer {
+    cursor: pointer;
+  }
+
 /* footer */
 
 .footer{
