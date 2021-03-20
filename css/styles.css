@@ -30,10 +30,10 @@ body {
 .logo{
     font-family: 'Raleway',sans-serif;
     font-weight: 700;
-font-size: 26px;
-line-height: 1.2;
-color:#000;
-text-decoration: none;
+    font-size: 26px;
+    line-height: 1.2;
+    color:#000;
+    text-decoration: none;
 }
 
 .web{ 
@@ -41,8 +41,8 @@ text-decoration: none;
 }
 
 .link{
-     text-decoration: none;
-color: var(--primary-text-color);
+    text-decoration: none;
+    color: var(--primary-text-color);
 
 }
 .link:hover{
@@ -62,13 +62,13 @@ color: var(--primary-text-color);
 
 .headline-title{
 
-color:var(--second-accent-color); 
-background-color:#2F303A; ;
-font-weight: 900;
-font-size: 44px;
-line-height: 1.36;
-text-align: center;
-letter-spacing: 0.06em;
+    color:var(--second-accent-color); 
+    background-color:#2F303A; ;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
 
 }
 
@@ -76,10 +76,10 @@ letter-spacing: 0.06em;
 .section-title{
     color:var(--primary-text-color) ;
 
-font-weight: 700;
-font-size: 14px;
-line-height: 1.14;
-letter-spacing: 0.03em;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
 }
 
 
@@ -88,17 +88,17 @@ letter-spacing: 0.03em;
     color:var(--primary-text-color) ;
     
 font-weight: 700;
-font-size: 36px;
-line-height: 1.16;
-text-align: center;
-letter-spacing: 0.03em;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 /* Button */
 
 
 .button{
-text-decoration: none;
-color:var(--primary-text-color);
+    text-decoration: none;
+    color:var(--primary-text-color);
 }
 
 .primary-btn{
@@ -117,17 +117,17 @@ color:var(--primary-text-color);
 .footer{
     font-family: 'Raleway',sans-serif;
     font-weight: 700;
-font-size: 26px;
-line-height: 1.2;
-color:#000;
-text-decoration: none;
+    font-size: 26px;
+    line-height: 1.2;
+    color:#000;
+    text-decoration: none;
     
 }
 
 .footer-address{
- background-color: #2F303A;
-font-weight: 400;
-font-size: 14px;
-line-height: 1.71;
-color: var(--second-accent-color);
+    background-color: #2F303A;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: var(--second-accent-color);
 }
